@@ -3,6 +3,7 @@
 Lyrics Finder, kullanıcıların sanatçı adı ve şarkı adı girerek şarkı sözlerini kolayca bulmalarını sağlayan bir web uygulamasıdır. Bu uygulama, Lyricsovh API'sini kullanarak şarkı sözlerini alır ve ekranda görüntüler.
 
 Özellikler ..:
+
 (-> Sanatçı ve Şarkı Adı Araması: Kullanıcılar, istedikleri şarkı sözlerini bulmak için sanatçı adı ve şarkı adını girebilir.
 
 (-> Şarkı Sözlerini Gösterme: Uygulama, API'yi kullanarak şarkı sözlerini alır ve ekranda görüntüler.
@@ -10,6 +11,7 @@ Lyrics Finder, kullanıcıların sanatçı adı ve şarkı adı girerek şarkı 
 (-> Hata Mesajı: Şarkı sözleri bulunamadığında, kullanıcıya "Üzgünüz, şarkı sözleri bulunamadı" mesajı gösterilir.
 
 Kullanılan Teknolojiler ..:
+
 (-> HTML: Web sayfasının yapısını oluşturmak için kullanılır.
 
 (-> CSS: Sayfanın görsel düzeni için kullanılır.
@@ -19,6 +21,7 @@ Kullanılan Teknolojiler ..:
 (-> Lyricsovh API: Şarkı sözlerini almak için kullanılan üçüncü taraf API.
 
 Kurulum ve Çalıştırma ..:
+
 (-> Projeyi bilgisayarınıza indirin:
 git clone https://github.com/s0obee/lyrics-finder.git
 
@@ -28,6 +31,7 @@ cd lyrics-finder
 (-> index.html dosyasını tarayıcınızda açarak uygulamayı çalıştırın.
 
 Kullanım ..:
+
 (-> Web sayfasını açın.
 
 (-> Sanatçı adı ve şarkı adı alanlarını doldurun.

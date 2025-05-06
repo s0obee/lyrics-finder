@@ -43,3 +43,6 @@ Kullanım ..:
 GitHub Pages ..:
 (-> Bu proje, GitHub Pages üzerinde barındırılmaktadır. Aşağıdaki bağlantıdan erişebilirsiniz:
 https://s0obee.github.io/lyrics-finder
+
+![Ekran görüntüsü 2025-05-06 131551](https://github.com/user-attachments/assets/9e1f0748-73cf-4f7f-8de3-b5e440d9a381)
+

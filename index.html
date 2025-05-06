@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Şarkı Sözleri Bulucu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Şarkı Sözleri Bulucu</h1>
+    <label for="artist">Sanatçı Adı:</label>
+    <input type="text" id="artist" placeholder="Sanatçı adını girin">
+    
+    <label for="song">Şarkı Adı:</label>
+    <input type="text" id="song" placeholder="Şarkı adını girin">
+    
+    <button onclick="getLyrics()">Şarkı Sözlerini Getir</button>
+    
+    <div id="lyrics-result">
+      <h2>Şarkı Sözleri:</h2>
+      <p id="lyrics"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
